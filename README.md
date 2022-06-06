@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashirajay
+- 👋 Hi, I’m Ashira Jayaweera
 - 👀 I’m interested in Digital Signal Processing, Stastical Estimation and High Performance Computing
 - 🌱 I’m currently learning C++, CMake
 - 💞️ I’m looking to collaborate on ...
